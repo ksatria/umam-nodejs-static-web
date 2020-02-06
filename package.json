@@ -1,0 +1,15 @@
+{
+  "name": "static-web",
+  "version": "1.0.0",
+  "description": "Belajar membuat static web menggunakan NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "html"
+  ],
+  "author": "Khoirul Umam",
+  "license": "ISC"
+}
